@@ -1,0 +1,249 @@
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Cartoon & Animations",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?",
+			"correct_answer": "Ursula",
+			"incorrect_answers": ["Madam Mim", "Maleficent", "Lady Tremaine"]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "Coca-Cola&#039;s original colour was green.",
+			"correct_answer": "False",
+			"incorrect_answers": ["True"]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+			"correct_answer": "Germany",
+			"incorrect_answers": ["Austria", "Canada", "Sweden"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many classes are there in Team Fortress 2?",
+			"correct_answer": "9",
+			"incorrect_answers": ["10", "8", "7"]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which Toronto landmark was featured on the cover art of Canadian rapper Drake&#039;s 2016 album &quot;Views&quot;?",
+			"correct_answer": "CN Tower",
+			"incorrect_answers": ["Allan Gardens", "Union Station", "Prince of Wales Theatre"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did the Battle of Agincourt take place?",
+			"correct_answer": "1415",
+			"incorrect_answers": ["1463", "1401", "1422"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In which year did the Invasion of Kuwait by Iraq occur?",
+			"correct_answer": "1990",
+			"incorrect_answers": ["1992", "1988", "1986"]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What year was Huun Huur Tu&#039;s album Altai Sayan Tandy-Uula released? ",
+			"correct_answer": "2004",
+			"incorrect_answers": ["1993", "2006", "2010"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?",
+			"correct_answer": "The source code got leaked",
+			"incorrect_answers": [
+				"They weren&#039;t satisfied with the result",
+				"The story was not good enough",
+				"Way too many bugs to be fixed"
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is NOT a playable character race in the video game &quot;Starbound&quot;?",
+			"correct_answer": "Fenerox",
+			"incorrect_answers": ["Floran", "Novakid", "Hylotl"]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is NOT a name of an album released by American rapper Pitbull?",
+			"correct_answer": "Welcome to Miami",
+			"incorrect_answers": ["Dale", "Global Warming", "Armando"]
+		},
+		{
+			"category": "Entertainment: Cartoon & Animations",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+			"correct_answer": "Myrtenaster",
+			"incorrect_answers": ["Gambol Shroud", "Crescent Rose", "Ember Celica"]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
+			"correct_answer": "False",
+			"incorrect_answers": ["True"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",
+			"correct_answer": "Delirium",
+			"incorrect_answers": ["Mega Satan", "Hush", "The Lamb"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Terraria, which of these items is NOT crafted at a Mythril Anvil?",
+			"correct_answer": "Ankh Charm",
+			"incorrect_answers": ["Venom Staff", "Sky Fracture", "Orichalcum Tools"]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The LS1 engine is how many cubic inches?",
+			"correct_answer": "346",
+			"incorrect_answers": ["350", "355", "360"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+			"correct_answer": "IDCLIP",
+			"incorrect_answers": ["IDFA", "IDDQD", "IDSPISPOPD"]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+			"correct_answer": "The Go-Getters",
+			"incorrect_answers": ["The Jumpers", "The Kickstarters", "The Beat-Busters"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In &quot;Pok&eacute;mon Sun and Moon&quot;, Team Skull took over which town?",
+			"correct_answer": "Po Town",
+			"incorrect_answers": ["Heahea City", "Tapu Village", "Iki Town"]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+			"correct_answer": "Roy Harper",
+			"incorrect_answers": ["Black Canary", "Emiko Queen", "Dick Grayson"]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the capital of South Korea?",
+			"correct_answer": "Seoul",
+			"incorrect_answers": ["Pyongyang", "Taegu", "Kitakyushu"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the first game in the &quot;Battlefield&quot; series?",
+			"correct_answer": "Battlefield 1942",
+			"incorrect_answers": ["Battlefield Vietnam", "Battlefield 2", "Battlefield 1"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Kingdom Hearts series, which is not an optional boss you can fight?",
+			"correct_answer": "Master Yen Sid",
+			"incorrect_answers": ["Sephiroth", "Julius", "Kurt Zisa"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "hard",
+			"question": "The video game &quot;Fuel&quot; has an open world that is 5,560 square miles?",
+			"correct_answer": "True",
+			"incorrect_answers": ["False"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In the game &quot;Until Dawn&quot; Emily is the only playable character who can be killed by another playable character directly.",
+			"correct_answer": "True",
+			"incorrect_answers": ["False"]
+		},
+		{
+			"category": "Entertainment: Musicals & Theatres",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The World Chess Championship in Chess, Act 1 is set in which Italian city?",
+			"correct_answer": "Merano",
+			"incorrect_answers": ["Venice", "Milan", "Rome"]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Call of Duty: Modern Warfare 2, how many consecutive kills does it require to earn the &quot;Tactical Nuke&quot; killstreak?",
+			"correct_answer": "25",
+			"incorrect_answers": ["20", "30", "35"]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these animals belongs in class Chondrichthyes?",
+			"correct_answer": "Great white shark",
+			"incorrect_answers": ["Octopus", "Killer whale", "Catfish"]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these American cities has fewer than 1,000,000 people?",
+			"correct_answer": "San Francisco, California",
+			"incorrect_answers": ["Phoenix, Arizona", "San Antonio, Texas", "Philadelphia, Pennsylvania"]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+			"correct_answer": "Tenerife",
+			"incorrect_answers": ["Fuerteventura", "Gran Canaria", "Maui"]
+		}
+	]
+}
